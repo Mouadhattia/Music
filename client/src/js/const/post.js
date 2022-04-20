@@ -1,0 +1,38 @@
+export const GET_POSTS_LOAD ="GET_POSTS_LOAD"
+export const GET_POSTS_SUCCESS ="GET_POSTS_SUCCESS"
+export const GET_POSTS_FAIL ="GET_POSTS_FAIL"
+
+
+export const GET_USER_POSTS_SUCCESS ="GET_USER_POSTS_SUCCESS"
+
+
+
+export const UPDATE_LIKES='UPDATE_LIKES'
+export const UPDATE_LIKES_FAIL='UPDATE_LIKES_FAIL'
+
+
+export const REMOVE_COMMENT='REMOVE_COMMENT'
+export const ADD_COMMENT='ADD_COMMENT'
+export const UPDATE_COMMENT_FAIL='UPDATE_COMMENT_FAIL'
+
+
+
+export const DELETE_POST="DELETE_POST"
+
+
+
+export const GET_POST_LOAD ="GET_POST_LOAD"
+export const GET_POST ="GET_POST"
+export const GET_POST_FAIL ="GET_POST_FAIL"
+
+
+
+export const UPDATE_POST ="UPDATE_POST"
+
+
+
+
+
+
+
+
